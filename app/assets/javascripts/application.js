@@ -19,6 +19,3 @@
 //= require popper
 //= require bootstrap-sprockets
 
-
- //= require parallax
- //= require jquery.parallax
